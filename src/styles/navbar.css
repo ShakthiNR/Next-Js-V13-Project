@@ -1,0 +1,23 @@
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    list-style: none;
+    padding: 1rem;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+.navbar  .active{
+    color: darkred!important;
+    font-weight: 600;
+}
+
+.navbar .activeTeam{
+    color: darkmagenta !important;
+    font-weight: 600;
+    font-size: 1.25rem;
+
+}
